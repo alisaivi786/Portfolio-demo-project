@@ -1,6 +1,6 @@
 # About
 
-You can find the full course at: https://alirazamushtaq
+You can find the live demo at: https://alirazamushtaq
 
 ## Getting Started
 
